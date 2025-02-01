@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gio and A passionate fullstack developer and networking</h2>
+<h2 align="left">Hi 👋! My name is Gio </h2>
 
 ###
 
