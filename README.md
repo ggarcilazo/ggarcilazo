@@ -27,10 +27,9 @@
     </tr>
 </div>
 
-¿
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/giovanni-joaquin-garcilazo-lopez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/giovanni-joaquin-garcilazo-lopez) 
 
 
 <!--### ✍️ Random Dev Quote
