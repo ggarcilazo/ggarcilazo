@@ -2,7 +2,7 @@
 
  <img align="right" height="150" src="https://raw.githubusercontent.com/Giovanni-Garcilazo/Giovanni-Garcilazo/main/PERRO.gif" />
 
-🛜 Actualmente desarrollando proyectos de desarrollo web.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.<br>
+🛜 Actualmente desarrollando proyectos de paginas webs.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.<br>
 
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
@@ -15,9 +15,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<div align="center">
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+
+
+
 
 
 ## 🌐 Socials:
