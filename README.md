@@ -1,12 +1,13 @@
 <h2 align="left">Hi 👋! My name is Gio, Peruvian Web Developer </h2>
 
-# 
+ 
 🛜 Actualmente desarrollando proyectos de desarrollo web.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.<br>
 
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <img align="right" height="150" src="https://raw.githubusercontent.com/Giovanni-Garcilazo/Giovanni-Garcilazo/main/PERRO.gif" />
 
+##
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/giovanni-joaquin-garcilazo-lopez) 
