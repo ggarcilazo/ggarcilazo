@@ -19,7 +19,7 @@
 <div align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" width="350px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" width="325px"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-Garcilazo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="300px"/>
