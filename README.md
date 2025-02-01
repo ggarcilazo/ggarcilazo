@@ -5,8 +5,6 @@
 🛜 Actualmente desarrollando proyectos de paginas webs.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.
 
 
-
-
 <br>
 
 
