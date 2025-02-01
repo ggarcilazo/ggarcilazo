@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋! My name is Gio, Peruvian Web Developer </h2>
-<p>A passionate fullstack developer and networking</p>
 
 # 💫 About Me:
-🛜 Actualmente desarrollando proyectos de desarrollo web.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.
+🛜 Actualmente desarrollando proyectos de desarrollo web.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.<br>
 
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
