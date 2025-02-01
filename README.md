@@ -2,7 +2,12 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Giovanni-Garcilazo/Giovanni-Garcilazo/main/PERRO.gif" style="margin-left: 20px; margin-top: 10px;" />
 
-🛜 Actualmente desarrollando proyectos de paginas webs.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.<br>
+🛜 Actualmente desarrollando proyectos de paginas webs.<br>🎓 Estudiante de ingeniería en sistemas en mi séptimo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.
+
+
+
+
+<br>
 
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
