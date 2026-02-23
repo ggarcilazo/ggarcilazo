@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/ggarcilazo/Giovanni-Garcilazo/main/PERRO.gif" style="margin-left: 20px; margin-top: 10px;" />
 
-🛜 Actualmente desarrollando proyectos de paginas webs.<br>🎓 Estudiante de ingeniería en sistemas en mi octavo ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.
+🛜 Actualmente desarrollando proyectos de diversas areas tecnologicass.<br>🎓 Estudiante de ingeniería en sistemas en mi noveno ciclo.<br>🔥 Apasionado por la automatización y la infraestructura en la nube.<br> 👨🏽‍💻 A passionate fullstack developer and networking.
 
 
 <br>
