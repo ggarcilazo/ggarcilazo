@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Giovanni. </h2>
+<h2 align="left">Hola 👋! Mi llamo Giovanni Garcilazo. </h2>
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/ggarcilazo/Giovanni-Garcilazo/main/PERRO.gif" style="margin-left: 20px; margin-top: 10px;" />
 
